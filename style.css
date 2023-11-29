@@ -1,0 +1,13 @@
+
+    .centrador {
+        display: flex;
+        justify-content: center;
+        padding-top: 10%;
+    }
+   #primera{
+    margin-right: 5%;
+    
+   }
+   #tercera{
+    margin-left: 5%;
+   }
